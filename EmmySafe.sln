@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmmySafe", "EmmySafe\EmmySafe.csproj", "{C543C415-AEC8-4239-B483-6E2A7340C68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C543C415-AEC8-4239-B483-6E2A7340C68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C543C415-AEC8-4239-B483-6E2A7340C68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C543C415-AEC8-4239-B483-6E2A7340C68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C543C415-AEC8-4239-B483-6E2A7340C68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A54B4A-EE7F-4159-B718-F7C2B780C00B}
+	EndGlobalSection
+EndGlobal

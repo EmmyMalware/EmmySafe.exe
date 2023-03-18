@@ -1,0 +1,9 @@
+C:\Users\April\source\repos\EmmySafe\EmmySafe\bin\Debug\EmmySafe.exe
+C:\Users\April\source\repos\EmmySafe\EmmySafe\bin\Debug\EmmySafe.pdb
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.Form1.resources
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.Properties.Resources.resources
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.csproj.GenerateResource.cache
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.exe
+C:\Users\April\source\repos\EmmySafe\EmmySafe\obj\Debug\EmmySafe.pdb
